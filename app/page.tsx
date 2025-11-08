@@ -85,7 +85,7 @@ export default function Home() {
         {/* Footer */}
         <footer className="text-center mt-8">
           <p className="text-xs text-base-content/50">
-            Secure • HIPAA Compliant • Trusted by healthcare professionals
+            Secure • Reliable 
           </p>
         </footer>
       </div>

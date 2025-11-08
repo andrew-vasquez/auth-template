@@ -1,6 +1,7 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/apple-icon.png/route": "app/apple-icon.png/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
   "/icon0.svg/route": "app/icon0.svg/route.js",
   "/icon1.png/route": "app/icon1.png/route.js",
