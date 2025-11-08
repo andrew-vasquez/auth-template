@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { signIn, signInSocial } from "@/lib/actions/auth-actions";
-import { Box, HeartPulse } from "lucide-react";
+import { Box } from "lucide-react";
 import { EmailIcon } from "./components/icons/EmailIcon";
 import { PasswordIcon } from "./components/icons/PasswordIcon";
 import { SignInIcon } from "./components/icons/SignInIcon";
